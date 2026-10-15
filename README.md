@@ -4,7 +4,9 @@ By Shar. Preview trigger animations by scrubbing the Geometry Dash editor camera
 
 ## Download
 
-Get the `.geode` file from [Releases](https://github.com/shar-mark/trigger-animation-preview/releases/latest).
+Download **[TAP.geode](https://github.com/shar-mark/trigger-animation-preview/releases/download/v1.0.0/TAP.geode)**. This is the package submitted to Geode Index.
+
+Earlier preparation packages remain attached to the release; use **TAP.geode**.
 
 Windows only. Requires Geometry Dash 2.2081 and Geode 5.11.1.
 
